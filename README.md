@@ -77,7 +77,7 @@ Widget build(BuildContext context) {
 ```
 
 ## 🖼️ Screenshot
-(Add a screenshot of the rendered drawing here)
+![Blossom Drawing](assets/img/screenshot.png)
 
 ## 📌 Features
 - Precise vector rendering with `CustomPainter`
