@@ -13,10 +13,10 @@ The app renders the character Blossom on the screen using vector elements drawn 
 ## 📂 Project Structure
 ```
 ./ lib
-  ├── main.dart          # Application entry point
-  ├── home_page.dart     # Main screen containing the drawing logic
+  ├── main.dart            # Application entry point
+  ├── home_page.dart       # Main screen containing the drawing logic
   ├── blossom_painter.dart # CustomPainter to draw Blossom
-  └── utils.dart         # Helper functions and transformations
+  └── utils.dart           # Helper functions and transformations
 ```
 
 ## 🛠️ How to Run
