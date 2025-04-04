@@ -22,8 +22,8 @@ The app renders the character Blossom on the screen using vector elements drawn 
 ## 🛠️ How to Run
 ### 1️⃣ Clone the repository
 ```sh
-$ git clone https://github.com/your-repo/flutter-blossom-art.git
-$ cd flutter-blossom-art
+$ git clone https://github.com/MaxweelFreitas/blossom.git
+$ cd blossom
 ```
 
 ### 2️⃣ Install dependencies
